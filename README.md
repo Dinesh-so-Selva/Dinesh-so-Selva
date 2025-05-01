@@ -14,27 +14,49 @@ Welcome to my GitHub profile
 
 <h3>🛠️ Technologies & Tools</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-  
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- SQL (alternative vibrant cylinder-style icon) -->
+  <img src="https://img.icons8.com/fluency/48/sql.png" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" height="50" />
+  &nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  &nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
-  
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="50" />
-  
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50" />
-  
+  <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
-</p>
+  &nbsp;&nbsp;
 
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- Matplotlib -->
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- Visual Studio Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- Jupyter Notebook -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="50" />
+</p>
 
 Mail ID: dinesh.so.selva@gmail.com
 
