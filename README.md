@@ -54,7 +54,11 @@ Welcome to my GitHub profile
 
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" height="50" />
-</p>
+  &nbsp;&nbsp;
+  
+  <!-- Power Automate (vibrant, cylinder-style icon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Microsoft_Power_Automate.svg/96px-Microsoft_Power_Automate.svg.png" height="50" />
+  </p>
 
 Mail ID: dinesh.so.selva@gmail.com
 
