@@ -4,9 +4,7 @@ Welcome to my GitHub profile
 
 🧑‍💻 About Me
 
-🎯 Aspiring Data Analyst passionate about turning data into meaningful insights.
-
-📚 Currently learning and building projects in Python, SQL, Excel, and Power BI.
+📚 Currently learning and building projects in Python, SQL, Excel, Power BI, Power Automate.
 
 🧠 Interested in data-driven decision making, business analysis, and problem solving.
 
