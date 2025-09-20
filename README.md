@@ -4,7 +4,7 @@ Welcome to my GitHub profile
 
 🧑‍💻 About Me
 
-📚 Currently learning and building projects in Python, SQL, Excel, Power BI, Power Automate.
+📚 Currently learning and building projects in Python, SQL, Excel, Power BI, Tableau, Power Automate.
 
 🧠 Interested in data-driven decision making, business analysis, and problem solving.
 
