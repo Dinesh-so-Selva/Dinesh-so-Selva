@@ -56,9 +56,13 @@ Welcome to my GitHub profile
   <img src="https://img.icons8.com/color/48/power-bi.png" height="50" />
   &nbsp;&nbsp;
   
-<!-- Power Automate -->
-<img src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" height="50" />
-&nbsp;&nbsp;
+  <!-- Power Automate -->
+  <img src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" height="50" />
+  &nbsp;&nbsp;
+
+  <!-- Tableau -->
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="50" />
+  &nbsp;&nbsp;
 
 
 Mail ID: dinesh.so.selva@gmail.com
